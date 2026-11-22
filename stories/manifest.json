@@ -150,6 +150,76 @@
    "date": "2026-11-26",
    "slot": "pm",
    "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/2026-11/week2/reel2fa.mp4"
+  },
+  {
+   "date": "2026-11-27",
+   "slot": "am",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/stories/2026-11/st_s27.mp4"
+  },
+  {
+   "date": "2026-11-27",
+   "slot": "pm",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/2026-11/week3/reelPoison.mp4"
+  },
+  {
+   "date": "2026-11-28",
+   "slot": "am",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/stories/2026-11/st_s28.mp4"
+  },
+  {
+   "date": "2026-11-28",
+   "slot": "pm",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/2026-11/week3/reelFakeApp.mp4"
+  },
+  {
+   "date": "2026-11-29",
+   "slot": "am",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/stories/2026-11/st_s29.mp4"
+  },
+  {
+   "date": "2026-11-29",
+   "slot": "pm",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/2026-11/week3/reelCorr.mp4"
+  },
+  {
+   "date": "2026-11-30",
+   "slot": "am",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/stories/2026-11/st_s30.mp4"
+  },
+  {
+   "date": "2026-11-30",
+   "slot": "pm",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/2026-11/week3/reelL2.mp4"
+  },
+  {
+   "date": "2026-12-01",
+   "slot": "am",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/stories/2026-11/st_s31.mp4"
+  },
+  {
+   "date": "2026-12-01",
+   "slot": "pm",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/2026-11/week3/reelFork.mp4"
+  },
+  {
+   "date": "2026-12-02",
+   "slot": "am",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/stories/2026-11/st_s32.mp4"
+  },
+  {
+   "date": "2026-12-02",
+   "slot": "pm",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/2026-11/week3/reelSwan.mp4"
+  },
+  {
+   "date": "2026-12-03",
+   "slot": "am",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/stories/2026-11/st_s33.mp4"
+  },
+  {
+   "date": "2026-12-03",
+   "slot": "pm",
+   "video_url": "https://raw.githubusercontent.com/altvory/altvory-media-/main/2026-11/week3/reelRomance.mp4"
   }
  ]
 }
